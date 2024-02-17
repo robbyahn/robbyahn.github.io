@@ -1,12 +1,13 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - robbyahn
+  # - nzta
+  # - dnadesign
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - nzta/nzta-map-components
+  # - twbs/bootstrap
+  # - jekyll/jekyll
+  - dnadesign/silverstripe-glossary
+  # - FortAwesome/Font-Awesome
+  # - jpswalsh/academicons
+  # - mathjax/MathJax
